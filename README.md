@@ -3,7 +3,7 @@ An end-to-end digital product launch involving niche research, WordPress develop
 
 **Project Overview**
 This project demonstrates a full-funnel digital strategy. The goal was to identify a high-traffic niche, build a high-performance web platform, and execute a paid and organic customer acquisition strategy.
-•	Live Website: rudresh-pachorkar@dmlearning.in
+•	Website: rudresh-pachorkar@dmlearning.in
 •	Niche: Ancient Indian Health Practices
 •	Objective: To drive targeted traffic and build a subscriber base through automated funnels.
 ________________________________________
