@@ -1,5 +1,5 @@
 # VedicRevive_end-to-end-digital-funnel-analytics 
-An end-to-end digital product launch involving niche research, WordPress development, SEO optimization, and multi-channel performance marketing (Meta, Google, & Email).
+An end-to-end digital product launch involving niche research, WordPress development, SEO optimization, and multi-channel performance marketing (Meta, Google, & Email), Analytics.
 
 **Project Overview**
 This project demonstrates a full-funnel digital strategy. The goal was to identify a high-traffic niche, build a high-performance web platform, and execute a paid and organic customer acquisition strategy.
